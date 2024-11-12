@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @shadaban
-- 👀 I’m interested in to develop real time project & learning new techno
-- 🌱 I’m currently learning Java full stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via mail ansari932566@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m SHADAB ANSARI
+- 🚀 I'm a Junior Software Developer focused on building efficient and user-friendly applications. I specialize in **Full-Stack Development** using **JAVA** and **SpringBoot**.
+- 🌱  I'm currently learning **AWS** and **Docker**.
+- 📫 How to reach me via mail or LinkedIn & mobile (ansari932566@gmail.com/http://www.linkedin.com/shadab-ahmad-b64656205/+91 9325669610
+- 📍 Always looking for new challenges and opportunities to grow  
 
 <!---
 shadaban/shadaban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
